@@ -38,7 +38,23 @@ The analysis was conducted using GIS techniques:
 - Terrain analysis (slope and elevation)  
 
 ## 📸 Results
-*(Maps and analysis will be added here)*
+### 📍 Study Area Location
+![Localização](maps/mapa_localizacao.png)
+
+### 🌊 Watershed Delimitation
+![Bacia](maps/bacia_delimitada.png)
+
+### ⛰️ Hypsometric Map
+![Hipsometria](maps/hipsometria.png)
+
+### 📈 Slope Analysis
+![Declividade](maps/declividade.png)
+
+### 🌱 Land Use and Land Cover
+![Uso do solo](maps/mapbiomas.png)
+
+### 🧱 Soil Types
+![Solos](maps/tipo_solo.png)
 
 ## 👨‍💻 Author
 Paulo Esquerdo  
