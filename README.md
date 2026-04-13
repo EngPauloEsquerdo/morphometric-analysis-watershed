@@ -58,9 +58,9 @@ The analysis was conducted using GIS techniques:
 
 ## 📊 Morphometric Results
 
-Morphometric parameters were calculated to better understand watershed characteristics and hydrological behavior.
+Morphometric parameters were calculated to support the interpretation of watershed shape, drainage efficiency, and terrain influence on hydrological response.
 
-*(Table and values can be added here)*
+![Morphometric Table](results/tabela_morfometria.png)
 
 ## 👨‍💻 Author
 Paulo Esquerdo  
