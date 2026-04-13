@@ -56,6 +56,12 @@ The analysis was conducted using GIS techniques:
 ### 🧱 Soil Types
 ![Solos](maps/tipo_solo.png)
 
+## 📊 Morphometric Results
+
+Morphometric parameters were calculated to better understand watershed characteristics and hydrological behavior.
+
+*(Table and values can be added here)*
+
 ## 👨‍💻 Author
 Paulo Esquerdo  
 GIS Analyst | Environmental Monitoring
